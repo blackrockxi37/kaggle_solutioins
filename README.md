@@ -49,17 +49,17 @@ jupyter notebook <имя_файла>.ipynb
 ```
 kaggle_solutioins/
 │
-├── competition_1/
-│   ├── data/           # Данные соревнования
-│   ├── notebooks/      # Jupyter Notebooks с решением
-│   ├── scripts/        # Python скрипты
-│   └── README.md       # Описание решения для конкретного соревнования
+├── _1 competition/
+│   ├── train.csv       # Тренировочные данные
+│   ├── test.csv        # Тестовые данные 
+│   ├── submission.csv  # Пример submission
+│   └── main.ipynb      # Notebook с решением
 │
-├── competition_2/
-│   ├── data/
-│   ├── notebooks/
-│   ├── scripts/
-│   └── README.md
+├── _2 competition/
+│   ├── train.csv       
+│   ├── test.csv        
+│   ├── submission.csv  
+│   └── main.ipynb      
 │
 ├── requirements.txt    # Зависимости
 └── README.md           # Основное описание репозитория
