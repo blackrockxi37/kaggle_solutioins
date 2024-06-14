@@ -44,7 +44,7 @@
 jupyter notebook <имя_файла>.ipynb
 ```
 
-## Структура
+## Структура репозитория
 
 ```
 kaggle_solutioins/
