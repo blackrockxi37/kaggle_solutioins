@@ -42,6 +42,7 @@
 Пример запуска Jupyter Notebook:
 ```bash
 jupyter notebook <имя_файла>.ipynb
+```
 
 ## Структура
 
