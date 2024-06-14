@@ -42,3 +42,22 @@
 Пример запуска Jupyter Notebook:
 ```bash
 jupyter notebook <имя_файла>.ipynb
+
+## Структура
+
+kaggle_solutioins/
+│
+├── competition_1/
+│   ├── data/           # Данные соревнования
+│   ├── notebooks/      # Jupyter Notebooks с решением
+│   ├── scripts/        # Python скрипты
+│   └── README.md       # Описание решения для конкретного соревнования
+│
+├── competition_2/
+│   ├── data/
+│   ├── notebooks/
+│   ├── scripts/
+│   └── README.md
+│
+├── requirements.txt    # Зависимости
+└── README.md           # Основное описание репозитория
