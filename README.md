@@ -46,6 +46,7 @@ jupyter notebook <имя_файла>.ipynb
 
 ## Структура
 
+```
 kaggle_solutioins/
 │
 ├── competition_1/
@@ -62,3 +63,4 @@ kaggle_solutioins/
 │
 ├── requirements.txt    # Зависимости
 └── README.md           # Основное описание репозитория
+```
